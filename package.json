@@ -6,7 +6,7 @@
   "scripts": {
     "test": "npx cypress open"
   },
-  "author": "Helder Soares - Lizarb Pacheco",
+  "author": "Helder Soares",
   "license": "MIT",
   "devDependencies": {
     "cypress": "^10.0.3"
