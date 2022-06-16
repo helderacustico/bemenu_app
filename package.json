@@ -1,0 +1,14 @@
+{
+  "name": "bemenu",
+  "version": "1.0.0",
+  "description": "Projeto de testes BeMenu",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Helder Soares - Lizarb Pacheco",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^10.0.3"
+  }
+}
